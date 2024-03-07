@@ -37,4 +37,10 @@ elif [ "$action" == "unbind" ]; then
 
     echo "Done!"
 
+else
+
+    echo "Invalid choice. Please type 'bind' or 'unbind'."
+
+    exec "$0"
+
 fi
