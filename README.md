@@ -9,12 +9,12 @@ apt install -y git proot-distro
 
 ### Installation
 ```
-git clone https://github.com/DefkieHaust/Bind-Termux-Kali-with-Proot-distro.git
+git clone https://github.com/DefkieHaust/Bind-Termux-Kali-with-Proot-distro.git && cd Bind-Termux-Kali-with-Proot-distro
 ```
 
 ### Run Script
 ```
-cd Bind-Termux-Kali-with-Proot-distro && ./bind-kali.sh
+./bind-kali.sh
 ```
 
 > You can bind or unbind kali by running bind-kali.sh
