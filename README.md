@@ -1,4 +1,4 @@
-# Offical Kali over Proot-Distro
+# Official Kali over Proot-Distro
 
 > Make sure you have the official kali for termux installed from: https://www.kali.org/docs/nethunter/nethunter-rootless/.
 
